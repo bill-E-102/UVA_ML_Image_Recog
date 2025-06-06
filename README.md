@@ -9,7 +9,6 @@ This project uses TensorFlow and Keras to classify UVA campus landmarks from ima
 - Keras
 - NumPy
 - Matplotlib
-- Seaborn
 - scikit-learn
 
 ## View Project
